@@ -1,5 +1,11 @@
-1.# 💫 About Me:
-BCA student at SRM University, Sikkim, with a strong focus on computing fundamentals and networking.<br><br>Aspiring Cybersecurity Engineer, actively working with Linux, Bash, Python, and security‑oriented labs.<br><br>Developing practical skills in log analysis, system monitoring, and command‑line tooling for real incidents.<br><br>Interested in ethical hacking, Linux hardening, and access control across users, groups, and permissions.<br>​<br><br>Building a growing portfolio of automation and security scripts with clean documentation and clear usage examples.<br><br>Passionate about video editing and technical storytelling, turning complex cybersecurity concepts into clear visuals.<br><br>Driven, consistent learner preparing for entry‑level cybersecurity roles and internships in modern SOC and security teams.
+1.#  About Me:
+BCA student at SRM University, Sikkim, with a strong focus on computing fundamentals and networking.<br><br>
+Aspiring Cybersecurity Engineer, actively working with Linux, Bash, Python, and security‑oriented labs.<br>
+<br>Developing practical skills in log analysis, system monitoring, and command‑line tooling for real incidents.<br>
+<br>Interested in ethical hacking, Linux hardening, and access control across users, groups, and permissions.<br>​<br>
+<br>Building a growing portfolio of automation and security scripts with clean documentation and clear usage examples.<br>
+<br>Passionate about video editing and technical storytelling, turning complex cybersecurity concepts into clear visuals.<br>
+<br>Driven, consistent learner preparing for entry‑level cybersecurity roles and internships in modern SOC and security teams.
 
 
 2.## 🌐 Socials:
