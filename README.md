@@ -1,18 +1,18 @@
 # 👨‍💻 About Me
 
-1.**BCA student at SRM University, Sikkim**, with a strong focus on computing fundamentals and networking.  
+1. **BCA student at SRM University, Sikkim**, with a strong focus on computing fundamentals and networking.  
 
-2.**Aspiring Cybersecurity Engineer**, actively working with Linux, Bash, Python, and security‑oriented labs.  
+2. **Aspiring Cybersecurity Engineer**, actively working with Linux, Bash, Python, and security‑oriented labs.  
 
-3.Developing practical skills in **log analysis**, **system monitoring**, and **command‑line tooling** for real incidents.  
+3.  Developing practical skills in **log analysis**, **system monitoring**, and **command‑line tooling** for real incidents.  
 
-4.Interested in **ethical hacking**, **Linux hardening**, and **access control** across users, groups, and permissions.  
+4.  Interested in **ethical hacking**, **Linux hardening**, and **access control** across users, groups, and permissions.  
 
-5.Building a growing portfolio of **automation** and **security scripts** with clean documentation and clear usage examples.  
+5.  Building a growing portfolio of **automation** and **security scripts** with clean documentation and clear usage examples.  
 
-6.Passionate about **video editing** and technical storytelling, turning complex cybersecurity concepts into clear visuals.  
+6.  Passionate about **video editing** and technical storytelling, turning complex cybersecurity concepts into clear visuals.  
 
-7.Driven, **consistent learner** preparing for entry‑level cybersecurity roles and internships in modern SOC and security teams.
+7.  Driven, **consistent learner** preparing for entry‑level cybersecurity roles and internships in modern SOC and security teams.
 
 
 [1](https://github.com/jaysharma21-05/jaysharma21-05/edit/main/README.md)
