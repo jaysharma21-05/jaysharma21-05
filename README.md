@@ -1,6 +1,3 @@
-Heading ko markdown + thoda bold karke use kar, `<br>` bhi clean kar de. Yeh ready‑to‑paste version try kar:
-
-```md
 # 👨‍💻 About Me
 
 **BCA student at SRM University, Sikkim**, with a strong focus on computing fundamentals and networking.  
@@ -16,9 +13,7 @@ Building a growing portfolio of **automation** and **security scripts** with cle
 Passionate about **video editing** and technical storytelling, turning complex cybersecurity concepts into clear visuals.  
 
 Driven, **consistent learner** preparing for entry‑level cybersecurity roles and internships in modern SOC and security teams.
-```
 
-Agar tu chaahe to isko left side me rakhe aur right side pe GitHub stats ya koi banner image bhi add kar sakte.
 
 [1](https://github.com/jaysharma21-05/jaysharma21-05/edit/main/README.md)
 
